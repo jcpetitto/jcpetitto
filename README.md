@@ -25,7 +25,7 @@ My experience also includes work in public health as a data scientist with the M
 
 -   Immunization rates among young children using Massachusetts Immunization Information System (MIIS) ***EHR data*** using ***SAS***
 
--   Lyme disease surveillance in an endemic state using Massachusetts Virtual Epidemiologic Network (MAVEN) [l]{.underline}***aboratory and case data*** using ***SAS*** and *R*
+-   Lyme disease surveillance in an endemic state using Massachusetts Virtual Epidemiologic Network (MAVEN) ***laboratory and case data*** using ***SAS*** and *R*
 
 -   ***Policy*** and regulations applied to traveling animal exhibits such as those found at fairgrounds and brought to schools for educational purposes to make recommendations considering the potential of such activities as potential sources of disease.
 
