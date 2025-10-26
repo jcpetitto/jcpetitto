@@ -1,6 +1,6 @@
 ### A little about the owner of these repositories...
 
-I am a bioinformatician with an eclectic background. My academic journey included mathematics, philosophy, biology, teaching, veterinary medicine and public health, all of which have lent to a solid foundation for bioinformatics and computational biology.
+I am a bioinformatician with an eclectic background. My academic journey included mathematics, philosophy, biology, teaching, veterinary medicine and public health, all of which have lent to a solid foundation for bioinformatics and computational biology (and a few diplomas: PhD, MPH, MAT).
 
 My research is grounded in the principles of **Open Science**, with a strong emphasis on producing computationally **reproducible** results and **reusable**, open-source code. Experience working with a broad range of data types has lead me to a pragmatic, "right tool for the job" approach. For ***data analysis*** and ***visualization*** ***R*** is my "go-to", while I leverage the power of the tensor via ***Python*** for specialized tasks such as building ***machine learning*** pipelines. Leveraging the "multilingual" modalities of ***Quarto*** and ***Shiny***, I create ***dynamic presentations*** and ***exploratorytools*** that can be used to communicate findings.
 
