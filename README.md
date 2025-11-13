@@ -8,9 +8,7 @@ In parallel with the "right tool for the job" mentality flows an undercurrent of
 
 ### What is in these repositories?
 
-Within these repositories, you will find projects I have worked on: course projects, thesis work, and the current projects I am able to post..\
-Aggregating my projects here and organizing the appropriate documentation is a work in progress.
-
+Within these repositories, you will find projects I have worked on: course projects, thesis work, and the current projects I am able to post.
 In addition to those projects, there is also the [CubEd project](https://grunwald-lab-umass.github.io/CubEd/) worked on with "my" lab, the [Grunwald Lab](https://www.umassmed.edu/grunwaldlab/), at UMass Chan Medical School. I created the GitHub page for the site using Quarto, with visual elements drawn from the Classroom Manual and Assembly Guide, which were written in collaboration with [Colton Hormann](https://github.com/SiberFreak). Colton Hormann was responsible for all of the 3D graphics and rendering. I created the layout for the pdf versions using Adobe InDesign and created the graphic elements using Adobe Photoshop and Illustrator.
 
 Currently, I am working on an ***pipeline for processing and analyzing single-molecule tracking data*** applying *neural networks* and *likelihood estimation* to segmentation and particle tracking, which we are using to study mRNA transport through the nuclear pore complex in yeast.
