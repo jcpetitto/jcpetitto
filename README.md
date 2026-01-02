@@ -60,8 +60,7 @@ Transforming a proof-of-concept into a robust, **FAIR-compliant, production-read
 
 ### [CubEd Project](https://grunwald-lab-umass.github.io/CubEd/)
 Open-source educational platform for teaching molecular biology through hands-on model building.
-- **Role:** Lead developer (GitHub Pages site, layout design)
-- **Collaboration:** [Grunwald Lab](https://www.umassmed.edu/grunwaldlab/)
+- **Role:** Author, Lead developer (GitHub Pages site, layout design, manual and guide creation)
 - **Tools:** Quarto, Adobe Creative Suite
 - **Impact:** Accessible STEM education resource
 
