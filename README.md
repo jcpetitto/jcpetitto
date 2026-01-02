@@ -1,5 +1,5 @@
-# Jocelyn Petitto (formerly Tourtellotte), PhD, MPH, MAT
-
+# Jocelyn Petitto*, PhD, MPH, MAT
+*(formerly Tourtellotte)
 > Bioinformatician | Research Software Engineer | Open Science Advocate
 
 **Current Position:** Bioinformatician III in the Grunwald Lab @ RNA Therapeutics Institute, UMass Chan Medical School  
